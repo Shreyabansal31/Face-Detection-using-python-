@@ -1,2 +1,1 @@
-# ProjectDetails
-project-face detection
+Face Detection using Python
